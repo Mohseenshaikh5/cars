@@ -1,0 +1,115 @@
+/* .posters{
+        background-image:url('../../assets/360_F_221172345_dk6L7O0E90RL4HHINf6wsizfl4w7l0fE\ \(1\).jpg');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            height: 00px;
+    width: 110%; */
+            /* margin-top: 63px;  */
+                   /* background-position: right top; */
+/* } */
+   /* @keyframes slide-in {
+           0% {
+                   transform: translateX(-100%);
+           }
+
+           100% {
+                   transform: translateX(0);
+           }
+   } */
+
+   /* .animated-text {
+        white-space: nowrap;
+           text-align: center;
+   } */
+/* .video-container {
+        position: relative;
+        width: 100%;
+        height: 0;
+        padding-bottom: 56.25%; */
+        /* Adjust this value to match the aspect ratio of your video (e.g., 16:9 = 56.25%) */
+        /* overflow: hidden;
+} */
+
+/* .video-container::before {
+        content: '';
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 80%;
+        background-color: rgba(0, 0, 0, 0.5); */
+        /* Adjust the background color and opacity as desired */
+/* } */
+/* 
+.video-container video {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 80%;
+        object-fit: cover;
+} */
+  
+
+       /* @keyframes scroll {
+               0% {
+                       transform: translateX(100%);
+               }
+
+               100% {
+                       transform: translateX(-100%);
+               }
+       } */
+
+
+       body {
+               margin: 0;
+               padding: 0;
+               font-family: Arial, sans-serif;
+       }
+
+       .car-intro {
+               background-image: url('../../assets/360_F_221172345_dk6L7O0E90RL4HHINf6wsizfl4w7l0fE\ \(1\).jpg');
+               background-size: cover;
+               background-position: center;
+               height: 800px;
+               display:flex;
+               flex-direction: column;
+               justify-content: center;
+               align-items: center;
+               text-align: center;
+               color: goldenrod;
+              margin-top: 70px;
+               /* margin-right: "50%"; */
+       }
+.posters{
+        margin-right: 50%;
+        
+        
+}
+
+       h1 {
+               font-size: 40px;
+               margin-bottom: 20px;
+       }
+
+       p {
+               font-size: 18px;
+               margin-bottom: 40px;
+       }
+
+       .btn {
+               display: inline-block;
+               padding: 10px 20px;
+               background-color: #ff5722;
+               color: #fff;
+               text-decoration: none;
+               border-radius: 4px;
+               transition: background-color 0.3s ease;
+       }
+
+       .btn:hover {
+               background-color: #ff784e;
+       }
